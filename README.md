@@ -1,4 +1,4 @@
-                                                                            ABSTRACT
+                                                                      ABSTRACT
 As you dash through the ever-changing landscapes of Wild Run, brace yourself for the added layer of excitement that extends beyond the immersive gameplay. Utilizing a sophisticated backend system, Wild Run leverages the power of JavaScript, PHP, HTML, and a MySQL database to enrich your gaming experience.Your journey isn't confined to the screen – it's an ongoing saga that spans the digital realm. The game seamlessly integrates a scoring system, allowing you to not only keep track of your personal best but also compete with others for the ultimate bragging rights. The MySQL database diligently stores your username and high score, creating a leaderboard where champions emerge and legends are born.
 
 Feel the rush as you chase after the coveted high score, displayed prominently at the end of each run. But the adventure doesn't end there. Wild Run introduces a unique twist – the ability to update your scores. Conquer new milestones, surpass previous achievements, and witness your name ascend the ranks as you continuously improve.For those moments when you crave a fresh start or want to challenge your skills anew, the restart button awaits, providing a seamless transition to another exhilarating run. It's not just about how far you can go; it's about how much you can push your limits, overcome challenges, and etch your mark on the ever-expanding legacy of Wild Run.
@@ -7,7 +7,7 @@ Prepare for an adventure where each run tells a story, and every jump inches you
 
 
 
-                                                                          INTRODUCTION
+                                                                      INTRODUCTION
 Welcome to Wild Run, a dynamic and captivating endless runner game where your adventure is tracked and enhanced using a robust web-based system. Behind the scenes, JavaScript, PHP, HTML, and MySQL work seamlessly to bring you a personalized gaming experience.Using HTML for the game's structure and JavaScript for interactivity, Wild Run allows players to run endlessly through a prehistoric world, facing obstacles and ancient creatures. Meanwhile, PHP interacts with a MySQL database to store and manage player data, including usernames, scores, and high scores.
 
 The database functionality ensures that your progress is saved and retrievable. Each player's username and high score are stored, allowing for healthy competition and continuous improvement. The game features an update mechanism, allowing players to improve their scores and set new high scores.Wild Run introduces a restart button, enabling players to reset the game at any time. This feature ensures a seamless and enjoyable gaming experience, letting players jump right back into the action.
@@ -18,7 +18,7 @@ At the end of each run, the game proudly displays the player's username and scor
 
 
 
-                                                                          OBJECTIVES
+                                                                      OBJECTIVES
 Endless Adventure: 
 Run endlessly through a dynamically generated prehistoric world, facing a variety of obstacles and ancient creatures that challenge your skills and reflexes.
 High Score Mastery: 
@@ -30,11 +30,13 @@ Engage in friendly competition with other players by striving to reach the top o
 Score Update Mechanism:
  	Wild Run introduces a unique feature allowing players to update their scores. Surpass your previous achievements and continually strive for improvement, showcasing your growth as a Wild Run adventurer. 
                                                                           
-                                                                        UML DIAGRAM
+                                                                      UML DIAGRAM
 ![image](https://github.com/Vishnu-62/WildRun/assets/137435267/ab966067-3186-4a4b-a772-3b2211f920ae)
 
- 
-                                                                        KEY FEATURES
+
+
+
+                                                                       KEY FEATURES
 Endless Runner Dynamics:
  Immerse yourself in a non-stop adventure where the game dynamically generates landscapes, obstacles, and challenges, providing an endless and ever-changing experience.
 
@@ -52,7 +54,7 @@ Challenge yourself to achieve and surpass high scores, providing a constant moti
 
 
 
-                                                                    TECHNOLOGICAL STACK
+                                                                      TECHNOLOGICAL STACK
 1. JavaScript:
    - Leveraging the power of Java for backend development, ensuring robustness, scalability, and compatibility across different platforms.
 2. HTML:
@@ -79,10 +81,16 @@ In conclusion, Wild Run offers an exhilarating journey through a dynamically gen
                                                                         MODULES
 lOGIN
 ![image](https://github.com/Vishnu-62/WildRun/assets/137435267/09a26c6c-ed72-406a-8e60-366612106c13)
+
+
 SIGN UP
 ![image](https://github.com/Vishnu-62/WildRun/assets/137435267/2cb2987e-5043-433f-8b92-00214b12adf1)
+
+
 RUNNING
 ![image](https://github.com/Vishnu-62/WildRun/assets/137435267/0b05a6ac-f7b3-4aba-8c42-288df2b6e0f8)
+
+
 GAME OVER
 ![image](https://github.com/Vishnu-62/WildRun/assets/137435267/36894e90-fe3a-4ec6-8ea0-5bdba9b62ab2)
 
